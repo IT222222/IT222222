@@ -14,7 +14,7 @@ As the modern Javascript technologies came in, rather than using server side ren
 
 [![Github](https://img.shields.io/github/followers/IT222222?label=Follow&style=social)](https://github.com/IT222222)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT222222&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT222222&show_icons=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT222222&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT222222)
