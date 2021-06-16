@@ -5,6 +5,6 @@ As the modern Javascript technologies came in, rather than using server side ren
 
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=IT222222.IT222222)
+
 
 
