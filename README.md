@@ -1,5 +1,5 @@
 Over +10 years, I've been working as a Software Engineer for small to medium sized company.
-My major part are python, django and React.
+My major parts are python, django and React.
 As the modern Javascript technologies came in, rather than using server side rendering technologies tuned up with jQuery, I have been using Node.js, Angular.js for 5+ years for Frontend development.
 
 <br />
