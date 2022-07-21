@@ -1,9 +1,9 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br />
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IT222222&layout=compact&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="KyleMitton711" /></a>
-</p>
+Hi, 
+I am a passionate full-stack developer working with React and Vue for frontend, and Laravel and Node for backend mainly.
+As I work as a full-stack developer, I like to dream up entire logic for various requirements and make them be realistic with awesome interfaces. I mainly take my efforts to get experience in many fields of web technologies and implement high quality codes.
 
 ### 📊 Stats
 
