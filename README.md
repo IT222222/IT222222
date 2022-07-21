@@ -7,11 +7,11 @@ As I work as a full-stack developer, I like to dream up entire logic for various
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=midasdev711&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="Midas's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=midasdev711&theme=tokyonight&hide_border=true" alt="Midas's github streak" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=IT222222&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="Midas's github stats" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IT222222&theme=tokyonight&hide_border=true" alt="Midas's github streak" width="48%" >
 
 ### 🔝 Most used languages
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midasdev711&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT222222&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
 
 ## Main Skill
 
