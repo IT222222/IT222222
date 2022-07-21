@@ -2,8 +2,8 @@
 
 <br />
 Hi, 
-I am a passionate full-stack developer working with React and Vue for frontend, and Laravel and Node for backend mainly.
-As I work as a full-stack developer, I like to dream up entire logic for various requirements and make them be realistic with awesome interfaces. I mainly take my efforts to get experience in many fields of web technologies and implement high quality codes.
+I am a passionate full-stack developer working with python, django and React.js
+ A motivated and lifelong learner with an aspiration to learn new technology in computer software engineering every day. Strong analytical and problem-solving skills drive my interest and passion to love what I do as a Software Engineer.
 
 ### 📊 Stats
 
