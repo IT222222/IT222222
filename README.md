@@ -2,7 +2,7 @@
 
 <br />
 Hi, 
-I am a passionate full-stack developer working with python, django and React.js
+I am a passionate full-stack developer working with python, django, node, C#, ASP.NET Core/MVC and React.js
  A motivated and lifelong learner with an aspiration to learn new technology in computer software engineering every day. Strong analytical and problem-solving skills drive my interest and passion to love what I do as a Software Engineer.
 
 ### 📊 Stats
